@@ -1,0 +1,12 @@
+2025/02/28-02:01:33.601 ca7c Recovering log #3410
+2025/02/28-02:01:33.602 ca7c Level-0 table #3412: started
+2025/02/28-02:01:33.609 ca7c Level-0 table #3412: 151709 bytes OK
+2025/02/28-02:01:33.615 ca7c Delete type=0 #3410
+2025/02/28-02:01:33.616 ca7c Delete type=3 #3409
+2025/02/28-02:01:36.874 b148 Moved #3412 to level-1 151709 bytes OK: files[ 0 1 1 0 0 0 0 ]
+2025/02/28-02:01:36.875 b148 Compacting 1@1 + 1@2 files
+2025/02/28-02:01:36.897 b148 Generated table #3414@1: 3074 keys, 773927 bytes
+2025/02/28-02:01:36.897 b148 Compacted 1@1 + 1@2 files => 773927 bytes
+2025/02/28-02:01:36.898 b148 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/02/28-02:01:36.899 b148 Delete type=2 #3406
+2025/02/28-02:01:36.900 b148 Delete type=2 #3412

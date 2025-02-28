@@ -1,0 +1,5 @@
+2025/02/28-02:01:33.655 ca7c Recovering log #3415
+2025/02/28-02:01:33.657 ca7c Level-0 table #3417: started
+2025/02/28-02:01:33.671 ca7c Level-0 table #3417: 225612 bytes OK
+2025/02/28-02:01:33.679 ca7c Delete type=0 #3415
+2025/02/28-02:01:33.680 ca7c Delete type=3 #3414

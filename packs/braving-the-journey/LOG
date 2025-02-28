@@ -1,0 +1,12 @@
+2025/02/28-02:01:33.419 dc2c Recovering log #3410
+2025/02/28-02:01:33.419 dc2c Level-0 table #3412: started
+2025/02/28-02:01:33.430 dc2c Level-0 table #3412: 118042 bytes OK
+2025/02/28-02:01:33.436 dc2c Delete type=0 #3410
+2025/02/28-02:01:33.437 dc2c Delete type=3 #3409
+2025/02/28-02:01:36.736 b148 Moved #3412 to level-1 118042 bytes OK: files[ 0 1 1 0 0 0 0 ]
+2025/02/28-02:01:36.744 b148 Compacting 1@1 + 1@2 files
+2025/02/28-02:01:36.767 b148 Generated table #3414@1: 2175 keys, 787416 bytes
+2025/02/28-02:01:36.767 b148 Compacted 1@1 + 1@2 files => 787416 bytes
+2025/02/28-02:01:36.768 b148 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/02/28-02:01:36.769 b148 Delete type=2 #3406
+2025/02/28-02:01:36.770 b148 Delete type=2 #3412
