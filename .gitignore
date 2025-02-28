@@ -16,14 +16,13 @@ dist/
 # Foundry specific files
 foundryconfig.json
 
-# Foundry VTT packs database files
+# Foundry VTT temporary database files
 packs/**/LOCK
-packs/**/LOG*
+packs/**/LOG
+packs/**/LOG.*
 packs/**/*.old
 packs/**/CURRENT
 packs/**/MANIFEST-*
-packs/**/*.ldb
-packs/**/*.log
 
 # OS specific files
 .DS_Store
