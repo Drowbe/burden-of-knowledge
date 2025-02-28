@@ -44,7 +44,7 @@ yarn-error.log*
 # Foundry VTT config
 foundryconfig.json
 
-# Packs directory - keep only .ldb files
+# Only exclude lock files from packs
 packs/**/LOCK
 packs/**/LOG*
 packs/**/CURRENT
