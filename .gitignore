@@ -16,13 +16,9 @@ dist/
 # Foundry specific files
 foundryconfig.json
 
-# Foundry VTT temporary database files
-packs/**/LOCK
-packs/**/LOG
-packs/**/LOG.*
-packs/**/*.old
-packs/**/CURRENT
-packs/**/MANIFEST-*
+# Foundry VTT database files (keep only .ldb)
+packs/**/*
+!packs/**/*.ldb
 
 # OS specific files
 .DS_Store
@@ -43,4 +39,14 @@ yarn-error.log*
 
 # Temporary files
 *.tmp
-*~ 
+*~
+
+# Foundry VTT config
+foundryconfig.json
+
+# Packs directory - keep only .ldb files
+packs/**/LOCK
+packs/**/LOG*
+packs/**/CURRENT
+packs/**/MANIFEST-*
+packs/**/*.log 
