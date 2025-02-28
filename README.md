@@ -21,9 +21,14 @@ To install this module:
 
 1. Inside Foundry VTT, select the "Add-on Modules" tab in the Configuration and Setup menu
 2. Click the "Install Module" button
-3. In the "Manifest URL" field paste: [Your manifest URL when you publish it]
+3. In the "Manifest URL" field paste:
+```
+https://github.com/Drowbe/Burden-of-Knowledge/releases/latest/download/module.json
+```
 4. Click "Install" and wait for installation to complete
 5. Enable the module in your world using the "Manage Modules" menu
+
+Alternatively, you can manually install the module by downloading the latest release from the [Releases page](https://github.com/Drowbe/Burden-of-Knowledge/releases).
 
 ## Content
 
@@ -35,7 +40,18 @@ This module includes the following compendiums:
 - Playlists: Music and ambient sounds
 - Roll Tables: Random encounter tables and other randomized content
 - Adventures: Pre-made adventure content
-- Scenes: Various maps and locations
+- Scenes: Various maps and locations including:
+  - Aquatic Crypt
+  - Braving the Journey
+  - Common Scenes
+  - Daggerford
+  - Goblin Caves
+  - Llorkh
+  - Mines of Tethyamar
+  - Phlan
+  - Secomber
+  - Shadows and Light
+  - The Black Road
 - Journal Entries: Lore and quest information
 
 ## Compatibility
@@ -46,10 +62,14 @@ This module includes the following compendiums:
 
 ## License
 
-[Add your license information here]
+This module is provided as-is under the terms of the [MIT License](LICENSE).
 
 ## Credits
 
 Created by Coffee Pub
 Contact: drowbe@yhoo.com
-Discord: drowbe 
+Discord: drowbe
+
+## Support
+
+If you encounter any issues or have suggestions, please [create an issue](https://github.com/Drowbe/Burden-of-Knowledge/issues) on our GitHub repository. 
