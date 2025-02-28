@@ -37,13 +37,14 @@ yarn-error.log*
 *.tmp
 *~
 
+# Ensure all assets and packs files are included
+!assets/
+!assets/**/*
+!packs/
+!packs/**/*
+
 # Foundry VTT database management files
 packs/**/LOCK
 packs/**/LOG*
 packs/**/CURRENT
-packs/**/MANIFEST-*
-
-# Keep all other files in packs directory
-!packs/
-!packs/*/
-!packs/**/*.ldb 
+packs/**/MANIFEST-* 
