@@ -1,0 +1,295 @@
+{
+  "id": "burden-of-knowledge",
+  "title": "Burden of Knowledge Shared Compendium",
+  "version": "1.2.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "description": "Burden of Knowledge shared compendium.",
+  "authors": [
+    {
+      "name": "Coffee Pub",
+      "email": "drowbe@yhoo.com",
+      "discord": "drowbe",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "bok-actors",
+      "label": "Actors",
+      "path": "packs/bok-actors",
+      "type": "Actor",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "bok-cards",
+      "label": "Cards",
+      "path": "packs/bok-cards",
+      "type": "Cards",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "bok-items",
+      "label": "Items",
+      "path": "packs/bok-items",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "bok-macros",
+      "label": "Macros",
+      "path": "packs/bok-macros",
+      "type": "Macro",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "bok-playlists",
+      "label": "Playlists",
+      "path": "packs/bok-playlists",
+      "type": "Playlist",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "bok-roll-tables",
+      "label": "Roll Tables",
+      "path": "packs/bok-roll-tables",
+      "type": "RollTable",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "bok-adventures",
+      "label": "Adventures",
+      "path": "packs/bok-adventures",
+      "type": "Adventure",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "braving-the-journey",
+      "label": "Braving the Journey",
+      "path": "packs/braving-the-journey",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "common",
+      "label": "Common",
+      "path": "packs/common",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "daggerford",
+      "label": "Daggerford",
+      "path": "packs/daggerford",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "llorkh",
+      "label": "Llorkh",
+      "path": "packs/llorkh",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "mines-of-tethyamar",
+      "label": "Mines of Tethyamar",
+      "path": "packs/mines-of-tethyamar",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "aquatic-crypt",
+      "label": "Aquatic Crypt",
+      "path": "packs/aquatic-crypt",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "goblin-caves",
+      "label": "Goblin Caves",
+      "path": "packs/goblin-caves",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "secomber",
+      "label": "Secomber",
+      "path": "packs/secomber",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "shadows-and-light",
+      "label": "Shadows and Light",
+      "path": "packs/shadows-and-light",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "the-black-road",
+      "label": "The Black Road",
+      "path": "packs/the-black-road",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "dashboards",
+      "label": "Dashboards",
+      "path": "packs/dashboards",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "archive",
+      "label": "Archive",
+      "path": "packs/archive",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "lore",
+      "label": "Lore",
+      "path": "packs/lore",
+      "type": "JournalEntry",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "quests",
+      "label": "Quests",
+      "path": "packs/quests",
+      "type": "JournalEntry",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "narrative",
+      "label": "Narrative",
+      "path": "packs/narrative",
+      "type": "JournalEntry",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "phlan",
+      "label": "Phlan",
+      "path": "packs/phlan",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "templates-actors",
+      "label": "Templates: Actors",
+      "path": "packs/templates-actors",
+      "type": "Actor",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e"
+    },
+    {
+      "name": "templates-scenes",
+      "label": "Templates: Scenes",
+      "path": "packs/templates-scenes",
+      "type": "Scene",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e"
+    }
+  ]
+}

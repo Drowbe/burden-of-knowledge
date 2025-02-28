@@ -1,0 +1,47 @@
+# IDE
+.idea/
+.vs/
+.vscode/
+
+# Node Modules
+node_modules/
+
+# Distribution files
+dist/
+
+# Local environment files
+.env
+.env.*
+
+# Foundry specific files
+foundryconfig.json
+
+# Foundry VTT packs database files
+packs/**/LOCK
+packs/**/LOG*
+packs/**/*.old
+packs/**/CURRENT
+packs/**/MANIFEST-*
+packs/**/*.ldb
+packs/**/*.log
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Temporary files
+*.tmp
+*~ 
