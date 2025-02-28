@@ -16,10 +16,6 @@ dist/
 # Foundry specific files
 foundryconfig.json
 
-# Foundry VTT database files (keep only .ldb)
-packs/**/*
-!packs/**/*.ldb
-
 # OS specific files
 .DS_Store
 Thumbs.db
@@ -41,12 +37,13 @@ yarn-error.log*
 *.tmp
 *~
 
-# Foundry VTT config
-foundryconfig.json
-
-# Only exclude lock files from packs
+# Foundry VTT database management files
 packs/**/LOCK
 packs/**/LOG*
 packs/**/CURRENT
 packs/**/MANIFEST-*
-packs/**/*.log 
+
+# Keep all other files in packs directory
+!packs/
+!packs/*/
+!packs/**/*.ldb 
