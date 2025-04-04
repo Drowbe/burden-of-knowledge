@@ -1,3 +1,8 @@
-2025/02/28-00:15:12.781 a09c Recovering log #4573
-2025/02/28-00:15:12.787 a09c Delete type=0 #4573
-2025/02/28-00:15:12.788 a09c Delete type=3 #4572
+2025/03/30-11:45:28.465 602a8 Recovering log #4761
+2025/03/30-11:45:28.471 602a8 Delete type=0 #4761
+2025/03/30-11:45:28.472 602a8 Delete type=3 #4760
+2025/03/31-08:42:32.697 60e94 Level-0 table #4765: started
+2025/03/31-08:42:32.698 60e94 Level-0 table #4765: 0 bytes OK
+2025/03/31-08:42:32.701 60e94 Delete type=0 #4763
+2025/03/31-08:42:32.713 60e94 Manual compaction at level-0 from '!folders!5sY7FNaoQjuToQgC' @ 72057594037927935 : 1 .. '!playlists.sounds!rSxojoNrUZ0tUqfu.wm5rbRrwP0MHh1wP' @ 0 : 0; will stop at (end)
+2025/03/31-08:42:32.713 60e94 Manual compaction at level-1 from '!folders!5sY7FNaoQjuToQgC' @ 72057594037927935 : 1 .. '!playlists.sounds!rSxojoNrUZ0tUqfu.wm5rbRrwP0MHh1wP' @ 0 : 0; will stop at (end)

@@ -1,5 +1,3 @@
-2025/02/28-02:01:33.303 dc2c Recovering log #4623
-2025/02/28-02:01:33.304 dc2c Level-0 table #4625: started
-2025/02/28-02:01:33.310 dc2c Level-0 table #4625: 19769 bytes OK
-2025/02/28-02:01:33.316 dc2c Delete type=0 #4623
-2025/02/28-02:01:33.317 dc2c Delete type=3 #4622
+2025/03/31-08:43:05.209 5ff68 Recovering log #4814
+2025/03/31-08:43:05.214 5ff68 Delete type=0 #4814
+2025/03/31-08:43:05.215 5ff68 Delete type=3 #4812

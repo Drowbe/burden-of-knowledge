@@ -1,22 +1,11 @@
 {
   "id": "burden-of-knowledge",
   "title": "Burden of Knowledge",
-  "version": "1.2.5",
+  "version": "1.2.14",
   "compatibility": {
     "minimum": "12",
     "verified": "12",
-    "maximum": "12"
-  },
-  "relationships": {
-    "requires": [{
-      "id": "dnd5e",
-      "type": "system",
-      "manifest": "https://raw.githubusercontent.com/foundryvtt/dnd5e/master/system.json",
-      "compatibility": {
-        "minimum": "4.0.0",
-        "verified": "4.0.0"
-      }
-    }]
+    "maximum": "13"
   },
   "url": "https://github.com/Drowbe/Burden-of-Knowledge",
   "manifest": "https://github.com/Drowbe/Burden-of-Knowledge/releases/latest/download/module.json",
@@ -24,9 +13,10 @@
   "description": "Burden of Knowledge shared compendium.",
   "authors": [
     {
-      "name": "Coffee Pub",
+      "name": "Drowbe",
       "email": "drowbe@yhoo.com",
       "discord": "drowbe",
+      "github": "Drowbe",
       "flags": {}
     }
   ],

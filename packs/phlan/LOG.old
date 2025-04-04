@@ -1,3 +1,8 @@
-2025/02/28-00:15:13.297 8dac Recovering log #213
-2025/02/28-00:15:13.303 8dac Delete type=0 #213
-2025/02/28-00:15:13.304 8dac Delete type=3 #212
+2025/03/30-11:45:28.879 602a8 Recovering log #403
+2025/03/30-11:45:28.885 602a8 Delete type=0 #403
+2025/03/30-11:45:28.885 602a8 Delete type=3 #402
+2025/03/31-08:42:32.761 60e94 Level-0 table #407: started
+2025/03/31-08:42:32.762 60e94 Level-0 table #407: 0 bytes OK
+2025/03/31-08:42:32.763 60e94 Delete type=0 #405
+2025/03/31-08:42:32.766 60e94 Manual compaction at level-0 from '!folders!402QWPkacomUvndq' @ 72057594037927935 : 1 .. '!scenes.walls!wVU3L2lIGxaSJ6ee.zkR9wBYikr8kReHU' @ 0 : 0; will stop at (end)
+2025/03/31-08:42:32.766 60e94 Manual compaction at level-1 from '!folders!402QWPkacomUvndq' @ 72057594037927935 : 1 .. '!scenes.walls!wVU3L2lIGxaSJ6ee.zkR9wBYikr8kReHU' @ 0 : 0; will stop at (end)
