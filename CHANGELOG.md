@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.2.15] - 2024-03-19
+
+### Added
+- Throne of the Ice Lich
+
+### Added
+- Added CHANGELOG.md to track version changes
+
 ## [1.2.14] - 2024-03-19
 
 ### Fixed
