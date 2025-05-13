@@ -2,6 +2,10 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.2.17] - 2024-05-13
+
+### Added
+- Included Library in build
 
 ## [1.2.16] - 2024-05-13
 
