@@ -2,15 +2,21 @@
 
 All notable changes to this project will be documented in this file.
 
-## [1.2.15] - 2024-03-19
+
+## [1.2.16] - 2024-05-13
+
+### Added
+- Codex Library
+- Quests Library
+
+
+## [1.2.15] - 2024-05-12
 
 ### Added
 - Throne of the Ice Lich
-
-### Added
 - Added CHANGELOG.md to track version changes
 
-## [1.2.14] - 2024-03-19
+## [1.2.14] - 2024-04-19
 
 ### Fixed
 - Removed unsupported system relationship from module.json
