@@ -16,7 +16,6 @@
       "name": "Drowbe",
       "email": "drowbe@yhoo.com",
       "discord": "drowbe",
-      "github": "Drowbe",
       "flags": {}
     }
   ],
@@ -279,17 +278,28 @@
       "label": "Templates: Actors",
       "path": "packs/templates-actors",
       "type": "Actor",
+      "system": "dnd5e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "dnd5e"
+      }
     },
     {
       "name": "templates-scenes",
       "label": "Templates: Scenes",
       "path": "packs/templates-scenes",
       "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "libraries",
+      "label": "Libraries",
+      "path": "packs/libraries",
+      "type": "JournalEntry",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"

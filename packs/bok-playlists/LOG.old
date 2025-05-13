@@ -1,3 +1,8 @@
-2025/05/06-16:04:58.936 dcec Recovering log #4882
-2025/05/06-16:04:58.942 dcec Delete type=0 #4882
-2025/05/06-16:04:58.943 dcec Delete type=3 #4880
+2025/05/12-20:11:58.821 123b0 Recovering log #4904
+2025/05/12-20:11:58.827 123b0 Delete type=0 #4904
+2025/05/12-20:11:58.827 123b0 Delete type=3 #4903
+2025/05/13-15:54:39.680 10874 Level-0 table #4908: started
+2025/05/13-15:54:39.680 10874 Level-0 table #4908: 0 bytes OK
+2025/05/13-15:54:39.681 10874 Delete type=0 #4906
+2025/05/13-15:54:39.683 10874 Manual compaction at level-0 from '!folders!5sY7FNaoQjuToQgC' @ 72057594037927935 : 1 .. '!playlists.sounds!rSxojoNrUZ0tUqfu.wm5rbRrwP0MHh1wP' @ 0 : 0; will stop at (end)
+2025/05/13-15:54:39.683 10874 Manual compaction at level-1 from '!folders!5sY7FNaoQjuToQgC' @ 72057594037927935 : 1 .. '!playlists.sounds!rSxojoNrUZ0tUqfu.wm5rbRrwP0MHh1wP' @ 0 : 0; will stop at (end)
