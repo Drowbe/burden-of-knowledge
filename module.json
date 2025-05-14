@@ -230,28 +230,6 @@
       }
     },
     {
-      "name": "lore",
-      "label": "Lore",
-      "path": "packs/lore",
-      "type": "JournalEntry",
-      "system": "dnd5e",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      }
-    },
-    {
-      "name": "quests",
-      "label": "Quests",
-      "path": "packs/quests",
-      "type": "JournalEntry",
-      "system": "dnd5e",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      }
-    },
-    {
       "name": "narrative",
       "label": "Narrative",
       "path": "packs/narrative",
@@ -300,11 +278,11 @@
       "label": "Libraries",
       "path": "packs/libraries",
       "type": "JournalEntry",
+      "system": "dnd5e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "dnd5e"
+      }
     }
   ]
 }

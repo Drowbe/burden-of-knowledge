@@ -1,8 +1,3 @@
-2025/05/12-20:11:58.964 fb58 Recovering log #3885
-2025/05/12-20:11:58.970 fb58 Delete type=0 #3885
-2025/05/12-20:11:58.970 fb58 Delete type=3 #3884
-2025/05/13-15:54:39.693 10874 Level-0 table #3889: started
-2025/05/13-15:54:39.694 10874 Level-0 table #3889: 0 bytes OK
-2025/05/13-15:54:39.695 10874 Delete type=0 #3887
-2025/05/13-15:54:39.698 10874 Manual compaction at level-0 from '!scenes!2ls71vtaTIyOfwqW' @ 72057594037927935 : 1 .. '!scenes.walls!xnEXzepKhnNeIV8g.fDVX5Wr1hJagq3fc' @ 0 : 0; will stop at (end)
-2025/05/13-15:54:39.698 10874 Manual compaction at level-1 from '!scenes!2ls71vtaTIyOfwqW' @ 72057594037927935 : 1 .. '!scenes.walls!xnEXzepKhnNeIV8g.fDVX5Wr1hJagq3fc' @ 0 : 0; will stop at (end)
+2025/05/13-15:54:50.091 fb58 Recovering log #3888
+2025/05/13-15:54:50.098 fb58 Delete type=0 #3888
+2025/05/13-15:54:50.098 fb58 Delete type=3 #3886

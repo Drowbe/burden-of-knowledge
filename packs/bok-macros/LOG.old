@@ -1,7 +1,3 @@
-2025/05/12-20:11:58.808 fb58 Recovering log #4895
-2025/05/12-20:11:58.814 fb58 Delete type=0 #4895
-2025/05/12-20:11:58.815 fb58 Delete type=3 #4894
-2025/05/13-15:54:39.673 10874 Level-0 table #4899: started
-2025/05/13-15:54:39.674 10874 Level-0 table #4899: 0 bytes OK
-2025/05/13-15:54:39.675 10874 Delete type=0 #4897
-2025/05/13-15:54:39.676 10874 Manual compaction at level-0 from '!folders!5D1PWeSgdtV26yLh' @ 72057594037927935 : 1 .. '!macros!zE6RzNzbsuMmZUOc' @ 0 : 0; will stop at (end)
+2025/05/13-15:54:49.952 fb58 Recovering log #4898
+2025/05/13-15:54:49.957 fb58 Delete type=0 #4898
+2025/05/13-15:54:49.957 fb58 Delete type=3 #4896
