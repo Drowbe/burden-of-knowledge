@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.2.18] - Liches Study
+
+### Added
+- Walls for remaining mines of Tethyamr levels
+- Search Macro
+
 ## [1.2.17] - 2024-05-13
 
 ### Added
