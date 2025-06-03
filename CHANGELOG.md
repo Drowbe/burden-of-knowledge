@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.2.19] - Migrations
+
+### Added
+- Updated items
+- Updated traps
+- updated monsters
+- Search Macro
+
+### Todo
+- Migrate NPCs
+
 ## [1.2.18] - Liches Study
 
 ### Added
